@@ -51,8 +51,8 @@
 
       <?php 
       if(isset($_GET["pagina"])){
-        if ($_GET["pagina"]=='produccion' ||
-        $_GET["pagina"]=='anterior') {
+        if ($_GET["pagina"]=='dbproduccion' ||
+        $_GET["pagina"]=='db2017') {
           include "paginas/".$_GET["pagina"].".php";
         }else{
           include "paginas/404.php";

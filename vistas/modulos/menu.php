@@ -16,13 +16,13 @@
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">MENU DE NAVEGACIÓN</li>
         <li>
-          <a href="produccion">
+          <a href="dbproduccion">
             <i class="fa fa-user"></i>
             <span>Listado Personal - Producción</span>
           </a>
         </li>
         <li>
-          <a href="anterior">
+          <a href="db2017">
           <i class="fa fa-users"></i>
             <span>Listado Personal - DB 2017</span>
           </a>
